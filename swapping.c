@@ -2,7 +2,7 @@
 void main()
 {
 int a,b,c;
-printf("Enter Two no's:");
+
 scanf("%d%d",&a,&b);
 c=a;
 a=b;
